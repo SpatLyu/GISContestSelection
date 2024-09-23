@@ -4,7 +4,7 @@
 
 ![](download.png)
 
--   压缩包解压密码为**lyu20240923**
+-   压缩包解压密码为 **lyu20240923**
 
 -   本次选拔赛共四道大题，满分100分，比赛时间为一小时 :sweat_drops::sweat_drops::sweat_drops:
 
